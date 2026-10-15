@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prakt 4</string>
+    <string name="LogIn">Войти</string>
+    <string name="EnterName">Введите ваше имя</string>
+    <string name="ToDoList">Список Дел</string>
+    <string name="New">Новое дело</string>
+    <string name="ToDoWhat">Что нужно сделать?</string>
+    <string name="Add">Добавить</string>
+    <string name="ToList">К списку дел</string>
+    <string name="Exit">Выйти</string>
+</resources>
